@@ -2,6 +2,8 @@
 
 # Jenkins Kubernetes Upgrade
 
+**2021-04-14**
+
 This document contains information about how to upgrade Kubernetes cluster maintained by the Jenkins infrastructure project.
 
 ## Template
